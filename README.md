@@ -1,10 +1,8 @@
-## 👀 STATS
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yu-Tea&theme=nord_bright
-)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yu-Tea&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yu-Tea&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yu-Tea&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yu-Tea&theme=nord_bright)
+## 🐸 About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yu-Tea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yu-Tea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 🏆 TROPHY
-![trophy](https://github-profile-trophy.vercel.app/?username=Yu-Tea&theme=nord_bright)
+## 🌈 Tech Stack
+![](https://skillicons.dev/icons?i=html,css,js,typescript,ruby,rails,react,nextjs,ai,ps)

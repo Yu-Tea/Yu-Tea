@@ -21,5 +21,5 @@
 |:---:|:---:|
 |![](https://github.com/user-attachments/assets/c9d2a6c7-954a-4960-93c1-389cfaba8083)|![](https://github.com/user-attachments/assets/3c7cd7b1-865c-461c-9066-25b623e8594b)|
 |描いた生き物がアクアリウムを泳ぐアプリ|OGP画像をスタンプのように利用できるアプリ|
-|主な技術:React、Ruby on Rails、Ruby、JavaScript|主な技術:React、Next.js、TypeScript|
+|主な技術:Ruby on Rails、Ruby、JavaScript|主な技術:React、Next.js、TypeScript|
 |作成期間:約3週間／[リポジトリ](https://github.com/Yu-Tea/d-aqua)|作成期間: 約5日／[リポジトリ](https://github.com/Yu-Tea/tashikani-i)|

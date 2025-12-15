@@ -1,14 +1,3 @@
-## 🐸 About Me
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yu-Tea&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yu-Tea&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yu-Tea&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yu-Tea&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yu-Tea&theme=nord_bright&utcOffset=9)
-
-
-## 🌈 Tech Stack
-![](https://skillicons.dev/icons?i=html,css,js,typescript,ruby,rails,react,ai,ps)
-
 ## ✨ My App
 |[Cafe Your Tea](https://www.cafe-your-tea.com)|[ケロチャのカラフルティータイム](https://kerocha-tea.vercel.app)|
 |:---:|:---:|
@@ -23,3 +12,13 @@
 |描いた生き物がアクアリウムを泳ぐアプリ|OGP画像をスタンプのように利用できるアプリ|
 |主な技術:Ruby on Rails、Ruby、JavaScript|主な技術:React、Next.js、TypeScript|
 |作成期間:約3週間／[リポジトリ](https://github.com/Yu-Tea/d-aqua)|作成期間: 約5日／[リポジトリ](https://github.com/Yu-Tea/tashikani-i)|
+
+## 🌈 Tech Stack
+![](https://skillicons.dev/icons?i=html,css,js,typescript,ruby,rails,react,ai,ps)
+
+## 🐸 About Me
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yu-Tea&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yu-Tea&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yu-Tea&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yu-Tea&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yu-Tea&theme=nord_bright&utcOffset=9)
